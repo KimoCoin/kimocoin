@@ -1,0 +1,12 @@
+Building KimoCoin
+
+See doc/readme-qt.rst for instructions on building KimoCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KimoCoin.
+
+See doc/build-*.txt for instructions on building kimocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KimoCoin.
+
+Further build information and documentation is available at
+the official KimoCoin website, http://www.kimocoin.com
